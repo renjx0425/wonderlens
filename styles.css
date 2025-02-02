@@ -1,0 +1,65 @@
+/* Kid-friendly styling */
+body {
+    font-family: 'Comic Sans MS', 'Baloo', sans-serif;
+    background-color: #fce4ec;
+    color: #333;
+}
+
+h2 {
+    color: #ff4081;
+}
+
+button {
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 18px;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background-color: #388e3c;
+}
+
+#drawing-canvas {
+    margin: 20px auto;
+    display: block;
+    border: 3px solid #ffd700;
+    background: url('./images/canvas.png') center center no-repeat;
+    background-size: contain;
+}
+
+#drawing-controls {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#color-picker {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #ddd;
+    cursor: pointer;
+}
+
+#draw-your-own-auggie {
+    text-align: center;
+}
+
+#drawing-canvas {
+    margin: 0 auto;
+    display: block;
+}
+
+#choice-hesitate.bg-blue-200, #choice-approach.bg-blue-200 {
+    border: 2px solid #0077cc;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
