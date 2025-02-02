@@ -1,7 +1,7 @@
 # WonderLens 📖✨  
 **Fostering Empathy Through Interactive Character Perspective-Taking**  
 
-![WonderLens Banner](./images/canvas.png)  
+![WonderLens Banner](./images/banner.png)  
 
 ## 📌 Overview  
 **WonderLens** is an innovative interactive reading tool that transforms traditional third-person narratives into immersive **first-person** experiences. By allowing readers to explore **parallel first-person perspectives**, it fosters **empathy**, **engagement**, and a deeper **cognitive connection** to the characters.  
@@ -31,9 +31,9 @@ The project is inspired by **R.J. Palacio’s "Wonder"**, helping readers experi
 ## 📂 Project Structure  
 ```bash
 📁 WonderLens
-├── 📜 index.html          # Main UI for parallel narrative exploration
-├── 🎨 styles.css         # Custom styles and theme
-├── 📜 script.js          # Interactive logic (drag-drop, choices, reflections)
+├── 📜 index.html        # Main UI for parallel narrative exploration
+├── 🎨 styles.css        # Custom styles and theme
+├── 📜 script.js         # Interactive logic (drag-drop, choices, reflections)
 ├── 🖼️ images/           # Assets and media
 └── 📖 README.md         # Project documentation
 ```
