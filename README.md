@@ -46,7 +46,7 @@ The project is inspired by **R.J. Palacio’s "Wonder"**, helping readers experi
 1. Clone the repository:  
    ```bash
    git clone https://github.com/renjx0425/wonderlens.git
-   cd WonderLens
+   cd wonderlens
    ```
 2. Open index.html in your browser.
 
