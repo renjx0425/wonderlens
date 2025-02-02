@@ -56,7 +56,7 @@ WonderLens is based on research in:
 - **Theory of Mind (ToM) & Narrative Psychology**  
 - **Interactive Learning Environments**  
 
-For more details, see the **[Research Paper](https://drive.google.com/file/d/1Uv8oYCNdrFZXHiX0FYbWeYB8ysicX-2F/view?usp=sharing)**.  
+For more details, see the [Research Paper](./Research%20Paper.pdf) and [Slides](./Research%20Paper.pdf).
 
 
 ## 🤝 Contributing  
